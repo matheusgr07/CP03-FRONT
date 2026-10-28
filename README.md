@@ -13,5 +13,5 @@ Site para apresentar a Vinheria Agnello e seus vinhos.
 - CSS separado do HTML
 
 ## Links
-- GitHub: [Link do repositório]
-- GitHub Pages: [Link do site]
+- GitHub: https://github.com/matheusgr07/CP03-FRONT.git
+- GitHub Pages: https://matheusgr07.github.io/CP03-FRONT/
